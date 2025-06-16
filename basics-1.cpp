@@ -24,7 +24,6 @@ int main() {
     cout << "Static variable value :: " << myStatic << endl;
     cout << "Size of :: " << sizeof myGlobal << endl; // give size of data type
 
-
     // ** Example Output **
     /*
             Global variable value :: 0
