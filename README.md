@@ -19,7 +19,7 @@ It is focused on improving syntax, mastering object-oriented programming (OOP), 
 
 ---
 
-## 🧠 Purpose of this Repo
+## 🧠 Purpose of this Repo -
 
 - 💻 Brush up C++ core concepts before diving deep into DSA
 - 🧾 Keep code examples organized for quick reference
